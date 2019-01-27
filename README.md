@@ -6,6 +6,8 @@ Purpose: To introduce ourselves to dictionaries by been given two text files (bo
 The purpose was to compare text files, use them to see what words were the most common and compare them to other text files.
 This way we see how unique a text file is from another.
 
+The text files I ussed were downloaded aside.
+
 Learned:
          Usage of dictionaries 
          File manipulation
