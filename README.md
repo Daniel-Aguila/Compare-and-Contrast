@@ -8,11 +8,11 @@ This way we see how unique a text file is from another.
 
 The text files I ussed were downloaded aside.
 
-**WHAT I LEARNED:**
-1)Usage of dictionaries 
-2)File manipulation
+## WHAT I LEARNED:
+- Usage of dictionaries 
+- File manipulation
      
-mostCommon.py - grabs the most common words in a text file.
-unique.py     - will compare the uniqueness of each text file, by seeing how many words are unique to each text.
+ mostCommon.py - grabs the most common words in a text file.
+ unique.py     - will compare the uniqueness of each text file, by seeing how many words are unique to each text.
 
 I hope I am doing this right, new to gitHub, I will appreciate any tips you guys have to appear better. Thank you.
