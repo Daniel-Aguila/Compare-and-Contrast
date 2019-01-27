@@ -12,5 +12,5 @@ The text files I ussed were downloaded aside.
 1) Usage of dictionaries 
 2) File manipulation
 </br>
-<h4>mostCommon.py</h4> - grabs the most common words in a text file.
-<h4>unique.py</h4>     - will compare the uniqueness of each text file, by seeing how many words are unique to each text.
+<h4>mostCommon.py</h4> Grabs the most common words in a text file.
+<h4>unique.py</h4> Will compare the uniqueness of each text file, by seeing how many words are unique to each text.
